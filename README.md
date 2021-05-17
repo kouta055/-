@@ -5,5 +5,5 @@
  <table border="1">
     <tr>
       <th>名前</th>
-      <th>年齢</th>
+      <th>小林弘大</th>
     </tr>
