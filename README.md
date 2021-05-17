@@ -17,5 +17,5 @@
     </tr>
      <tr>
       <th>Twitter</th>
-      <th>@Tora52ta</th>
+      <th>https://twitter.com/home?lang=ja</th>
     </tr>
