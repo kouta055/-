@@ -15,3 +15,7 @@
       <th>ポートフォリオ</th>
       <th>https://github.com/kouta055/toukouSite</th>
     </tr>
+     <tr>
+      <th>Twitter</th>
+      <th>@Tora52ta</th>
+    </tr>
