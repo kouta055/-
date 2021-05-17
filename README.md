@@ -74,4 +74,10 @@
 </ul> 
 
 <h1>ポートフォリオ</h1>
-<li>https://github.com/kouta055/toukouSite</li>
+<ul>
+ <li>https://github.com/kouta055/toukouSite</li>
+ <li>投稿サイト</li>
+ <li>個人開発</li>
+</ul>
+
+<h1>プログラミングスキル</h1>
