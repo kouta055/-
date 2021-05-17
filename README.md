@@ -1,7 +1,6 @@
 <h1>職務経歴書</h1>
 
 <h1>アカウント</h1>
-
 <body>
  <table border="1">
     <tr>
@@ -28,8 +27,8 @@
       <th>お問い合わせ</th>
       <th>Twitterより DM下さい</th>
     </tr>
-  
-<h1>職務経歴</h1>
 </body>
-  
 
+<body>
+ <h1>職務経歴</h1>
+</body>
