@@ -114,10 +114,10 @@
  <li>Gitの操作ツールとして使用</li>
  <h4>Visual Studio Code</h4>
  <li>コード エディターとして使用</li>
- <li>DeepL</li>
+ <h4>DeepL</h4>
  <li>エラーメッセジの翻訳に使用</li>
- <li>Teems</li>
+ <h4>Teems</h4>
  <li>業務でチームコミュニケーション用に利用</li>
- <li>Slack</li>
+ <h4>Slack</h4>
  <li>会社内での連絡(相談)用に利用</li>
 </ul>
