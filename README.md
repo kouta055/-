@@ -5,5 +5,13 @@
  <table border="1">
     <tr>
       <th>名前</th>
-      <th>小林弘大</th>
+      <th>小林弘大　Kobayashi Kouta</th>
+    </tr>
+    <tr>
+      <th>場所</th>
+      <th>東京都青梅市</th>
+    </tr>
+    <tr>
+      <th>ポートフォリオ</th>
+      <th>https://github.com/kouta055/toukouSite</th>
     </tr>
