@@ -37,7 +37,7 @@
 
 <h4>担当業務</h4>
 <ul>
-  <li>TEG工程<</li>
+  <li>TEG工程</li>
 </ul>
 
 <div>業務内容</div>
