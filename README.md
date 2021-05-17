@@ -121,3 +121,12 @@
  <h4>Slack</h4>
  <li>会社内での連絡(相談)用に利用</li>
 </ul>
+
+<h1>技術書</h1>
+<ul>
+ <li>Ruby on Rails速習実践ガイド 5.2対応</li>
+ <li>Ruby on Rails6実践ガイド</li>
+ <li>オブジェクト指向でなぜつくるのか</li>
+</ul>
+
+
