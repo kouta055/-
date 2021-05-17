@@ -1,7 +1,7 @@
 <h1>職務経歴書</h1>
 
 <h1>アカウント</h1>
-<body>
+
  <table border="1">
     <tr>
       <th>名前</th>
@@ -17,5 +17,15 @@
     </tr>
      <tr>
       <th>Twitter</th>
-      <th>https://twitter.com/home?lang=ja</th>
+      <th>@Tora52ta</th>
     </tr>
+    <tr>
+      <th>Github</th>
+      <th>kouta055</th>
+    </tr>
+    <tr>
+      <th>お問い合わせ</th>
+      <th>Twitterより DM下さい</th>
+    </tr>
+  
+  <h1>職務経歴</h1>
