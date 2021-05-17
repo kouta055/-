@@ -85,3 +85,9 @@
 </ul>
 
 <h1>プログラミングスキル</h1>
+<ul>
+  <h4>Ruby on Rails</h4>
+</ul> 
+<ul>
+  <h4>Ruby</h4>
+</ul> 
