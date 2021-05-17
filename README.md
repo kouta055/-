@@ -78,6 +78,8 @@
  <li>https://github.com/kouta055/toukouSite</li>
  <li>投稿サイト</li>
  <li>個人開発</li>
+ <h4>主な使用言語</h4>
+ <li>JavaScript 4.6%</li>
 </ul>
 
 <h1>プログラミングスキル</h1>
