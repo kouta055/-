@@ -88,17 +88,37 @@
 <ul>
   <h4>Ruby on Rails(2.7.2)</h4>
   <h4>主に組み込んだ要素</h4>
-  <li>認証機能</li>
+  <li>ログイン機能</li>
   <li>CRUD</li>
   <li>MVC</li>
 </ul> 
 <ul>
   <h4>Ruby(2.7.2)</h4>
-  
+  <h4>主に組み込んだ要素</h4>
+  <li>if文</li>
+  <li>リンク機能</li>
 </ul> 
 <ul>
   <h4>HTML</h4>
+  <li>基礎</li>
 </ul> 
 <ul>
   <h4>CSS</h4>
+  <li>基礎</li>
 </ul> 
+
+<h1>その他ツールスキル</h1>
+<ul>
+ <h4>Github</h4>
+ <li>https://github.com/kouta055</li>
+ <h4>Soucetree</h4>
+ <li>Gitの操作ツールとして使用</li>
+ <h4>Visual Studio Code</h4>
+ <li>コード エディターとして使用</li>
+ <li>DeepL</li>
+ <li>エラーメッセジの翻訳に使用</li>
+ <li>Teems</li>
+ <li>業務でチームコミュニケーション用に利用</li>
+ <li>Slack</li>
+ <li>会社内での連絡(相談)用に利用</li>
+</ul>
