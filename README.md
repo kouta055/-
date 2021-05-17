@@ -86,8 +86,19 @@
 
 <h1>プログラミングスキル</h1>
 <ul>
-  <h4>Ruby on Rails</h4>
+  <h4>Ruby on Rails(2.7.2)</h4>
+  <li>2020年から勉強している</li>
+  <h4>主に組み込んだ要素</h4>
+  <li>認証機能</li>
+  <li>CRUD</li>
+  <li>MVC</li>
 </ul> 
 <ul>
-  <h4>Ruby</h4>
+  <h4>Ruby(2.7.2)</h4>
+</ul> 
+<ul>
+  <h4>HTML</h4>
+</ul> 
+<ul>
+  <h4>CSS</h4>
 </ul> 
