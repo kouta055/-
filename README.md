@@ -2,6 +2,7 @@
 
 <h1>アカウント</h1>
 
+<body>
  <table border="1">
     <tr>
       <th>名前</th>
@@ -27,5 +28,6 @@
       <th>お問い合わせ</th>
       <th>Twitterより DM下さい</th>
     </tr>
+</body>
   
   <h1>職務経歴</h1>
